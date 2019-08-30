@@ -1,0 +1,19 @@
+C:\Users\prthosar>cd desktop
+
+C:\Users\prthosar\Desktop>git clone http://pratibha-babaji.thosar%40capgemini.com@coderepository.mcd.com/scm/core/core-mule-cloudhub-proxy-restaurant-passive-exp-api.git
+Cloning into 'core-mule-cloudhub-proxy-restaurant-passive-exp-api'...
+remote: Counting objects: 2271, done.
+remote: Compressing objects: 100% (1652/1652), done.
+remote: Total 2271 (delta 1217), reused 549 (delta 306)
+Receiving objects: 100% (2271/2271), 1.88 MiB | 408.00 KiB/s, done.
+Resolving deltas: 100% (1217/1217), done.
+Checking out files: 100% (324/324), done.
+
+
+C:\Users\prthosar\Desktop>cd core-mule-cloudhub-proxy-restaurant-passive-exp-api
+
+C:\Users\prthosar\Desktop\core-mule-cloudhub-proxy-restaurant-passive-exp-api>git checkout bugfix/NewQAPassive
+Switched to a new branch 'bugfix/NewQAPassive'
+Branch 'bugfix/NewQAPassive' set up to track remote branch 'bugfix/NewQAPassive' from 'origin'.
+
+C:\Users\prthosar\Desktop\core-mule-cloudhub-proxy-restaurant-passive-exp-api>

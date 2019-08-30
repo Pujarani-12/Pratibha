@@ -1,0 +1,17 @@
+Microsoft Windows [Version 6.3.9600]
+(c) 2013 Microsoft Corporation. All rights reserved.
+
+C:\Users\mc89084>cd desktop
+
+C:\Users\mc89084\Desktop>cd apache-jmeter-5.1.1\bin
+
+C:\Users\mc89084\Desktop\apache-jmeter-5.1.1\bin>cd create-rmi-keystore.bat
+The directory name is invalid.
+
+C:\Users\mc89084\Desktop\apache-jmeter-5.1.1\bin>create-rmi-keystore.bat
+'keytool' is not recognized as an internal or external command,
+operable program or batch file.
+"Copy the generated rmi_keystore.jks to jmeter/bin folder or reference it in pro
+perty 'server.rmi.ssl.keystore.file'"
+
+C:\Users\mc89084\Desktop\apache-jmeter-5.1.1\bin>

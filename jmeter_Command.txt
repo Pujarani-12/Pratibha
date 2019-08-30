@@ -1,0 +1,8 @@
+C:\Users\prthosar\Downloads\apache-jmeter-5.1.1\bin
+
+Downloads\apache-jmeter-5.1\bin\jmeter -E https -H puneproxy.igate.com -P 8080 -u nmaiti -a Nam%8765
+
+Downloads\apache-jmeter-5.1.1\bin\jmeter -E https -H puneproxy.igate.com -P 8080 -u prthosar -a Capg@1998
+
+
+Desktop\apache-jmeter-5.1.1\bin\jmeter -E https -H puneproxy.igate.com -P 8080 -u prthosar -a Capg@1998
